@@ -37,6 +37,7 @@ event-registration
 
 
 ## code:
+
 /* Home Page */
 position: relative;
 width: 354px;
